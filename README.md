@@ -126,6 +126,13 @@ O sistema inclui suíte de testes cobrindo rotas padrão e contingências diante
 
 ---
 
+## 👥 Integrantes do Grupo
+
+- **Eduardo Rafael Bacchiega** — RA: `1749416`
+- **Diego Rossetto** — RA: `n`
+- **Walace Alves** — RA: `n`
+
 ## ✒️ Autor
 
 Desenvolvido como projeto acadêmico de **Inteligência Artificial & Teoria dos Grafos**.
+
