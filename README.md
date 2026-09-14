@@ -129,8 +129,8 @@ O sistema inclui suíte de testes cobrindo rotas padrão e contingências diante
 ## 👥 Integrantes do Grupo
 
 - **Eduardo Rafael Bacchiega** — RA: `1749416`
-- **Diego Rossetto** — RA: `n`
-- **Walace Alves** — RA: `n`
+- **Diego Rossetto do Nascimento** — RA: `1727950`
+- **Walace Alves de Araújo** — RA: `1327400`
 
 ## ✒️ Autor
 
