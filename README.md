@@ -2,7 +2,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dubacchiega/metrobot/blob/main/MetroBot_2.ipynb)
 
-O **MetrôBot SP 2.0** é um sistema inteligente de navegação e recomendação de rotas para a malha metroviária de São Paulo (Linhas 1-Azul, 2-Verde e 3-Vermelha). 
+## 👥 Integrantes do Grupo
+
+- **Eduardo Rafael Bacchiega** — RA: `1749416`
+- **Diego Rossetto do Nascimento** — RA: `1727950`
+- **Walace Alves de Araújo** — RA: `1327400`
+
+O **MetrôBot SP 2.0** é um sistema inteligente de navegação e recomendação de rotas para três linhas de metrô de São Paulo (Linhas 1-Azul, 2-Verde e 3-Vermelha). 
 
 O projeto combina **Algoritmos de Busca em Grafos (BFS e DFS)**, **Motor de Inferência Lógica de Primeira Ordem (Forward Chaining)**, **Modelos de Linguagem (LLM via Groq / Ollama / RegEx Offline)** e uma **Interface Interativa em IPyWidgets**.
 
@@ -125,14 +131,3 @@ O sistema inclui suíte de testes cobrindo rotas padrão e contingências diante
 - **Interface Gráfica:** `ipywidgets` + HTML5/CSS3 Dinâmico
 
 ---
-
-## 👥 Integrantes do Grupo
-
-- **Eduardo Rafael Bacchiega** — RA: `1749416`
-- **Diego Rossetto do Nascimento** — RA: `1727950`
-- **Walace Alves de Araújo** — RA: `1327400`
-
-## ✒️ Autor
-
-Desenvolvido como projeto acadêmico de **Inteligência Artificial & Teoria dos Grafos**.
-
