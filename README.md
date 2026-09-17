@@ -7,6 +7,7 @@
 - **Eduardo Rafael Bacchiega** — RA: `1749416`
 - **Diego Rossetto do Nascimento** — RA: `1727950`
 - **Walace Alves de Araújo** — RA: `1327400`
+- **Marcos da Silva Teixeira** - RA: `2158303`
 
 ---
 ## 📝 Descrição
