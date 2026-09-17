@@ -8,6 +8,9 @@
 - **Diego Rossetto do Nascimento** — RA: `1727950`
 - **Walace Alves de Araújo** — RA: `1327400`
 
+---
+## 📝 Descrição
+
 O **MetrôBot SP 2.0** é um sistema inteligente de navegação e recomendação de rotas para três linhas de metrô de São Paulo (Linhas 1-Azul, 2-Verde e 3-Vermelha). 
 
 O projeto combina **Algoritmos de Busca em Grafos (BFS e DFS)**, **Motor de Inferência Lógica de Primeira Ordem (Forward Chaining)**, **Modelos de Linguagem (LLM via Groq / Ollama / RegEx Offline)** e uma **Interface Interativa em IPyWidgets**.
